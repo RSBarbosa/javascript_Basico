@@ -8,7 +8,7 @@ const alunos = ['João', 'Juliana', 'Ana', 'Caio', 'Lara', 'Marjorie', 'Guilherm
  console.log(alunos.length)
 
 // const sala1 = alunos.slice(0,10);
-// const sala2 = alunos.slice(10, 20);
+// const sala2 = alunos.slice(10, 20)git;
 
 const sala1 = alunos.slice(0, alunos.length/2);
 const sala2 = alunos.slice( alunos.length/2);
